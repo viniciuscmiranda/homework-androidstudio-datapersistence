@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDict</string>
+    <string name="action_settings">Settings</string>
+    <string name="insira_novas_palavras">Insira novas palavras</string>
+    <string name="palavra">Palavra</string>
+    <string name="significado">Significado</string>
+    <string name="dicionario">Dicionário</string>
+    <string name="c_digo">Código</string>
+    <string name="definicao">Definição</string>
+    <string name="_00">00</string>
+</resources>
